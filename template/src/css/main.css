@@ -211,7 +211,7 @@ td.code {
  margin-left: 270px;
 }
 
-p {
+p, h1, h2, h3, ul, ol {
  color: #808080;
 }
 
